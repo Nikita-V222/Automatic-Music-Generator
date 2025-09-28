@@ -1,0 +1,6 @@
+tensorflow
+music21
+numpy
+tqdm
+scikit-learn
+matplotlib
