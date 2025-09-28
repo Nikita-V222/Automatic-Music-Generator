@@ -1,5 +1,3 @@
-# Automatic-Music-Generator
-
 # 🎵 Automatic Music Generator
 
 This project uses **LSTM (Long Short-Term Memory networks)** to generate piano music automatically. The model learns patterns from classical piano MIDI files and creates new sequences.
