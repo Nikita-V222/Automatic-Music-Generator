@@ -34,6 +34,12 @@ cd Automatic-Music-Generator
 pip install -r requirements.txt
 python train.py
 python generate.py
+
+
+☁️ Alternative — Run on Google Colab
+You can try the chatbot directly in Google Colab without installing anything:
+https://colab.research.google.com/drive/1EQh2JcWjxvApg6WEHceZ3_RV4uS8Fq4D?usp=sharing
+
 ```
 
 Generated music will be saved as a `.midi` file.
